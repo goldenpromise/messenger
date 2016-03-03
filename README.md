@@ -3,6 +3,7 @@
 <b>On the completed app, you are able to send messages to others using EditTextViews and a button.
 <br>
 <b>The Messenger Start Screen </b> has a cool background of a guy eating pizza with a custom-made pizza pouch. There are two EditTextViews and a button. 
+
 ![Alt  text](https://github.com/goldenpromise/messenger/blob/master/Screenshots/mscreenshots.PNG "Messenger Start Screen")
 <br>
 
