@@ -1,6 +1,6 @@
 ### Messenger App<br>
-<b> Promise Agbo - Norwalk High School Junior<br>
-<b>On the completed app, you are able to send messages to others using EditTextViews and a button.
+<b> Promise Agbo - Norwalk High School Junior:sparkles: <br>
+<b>On the completed app, you are able to send messages to others using EditTextViews and a button. :dizzy:
 <br>
 <b>The Messenger Start Screen </b> has a cool background of a guy eating pizza with a custom-made pizza pouch. There are two EditTextViews and a button. 
 
